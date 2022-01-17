@@ -25,3 +25,5 @@ for n in cube_list:
     if s_m % 7 == 0:
         result += n
 print(result)
+
+#end
