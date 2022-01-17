@@ -26,4 +26,3 @@ for n in cube_list:
         result += n
 print(result)
 
-#end

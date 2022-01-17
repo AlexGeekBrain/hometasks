@@ -19,3 +19,4 @@ seconds = duration // 1
 duration = duration - (seconds * 1)
 
 print(day, 'дн.', hour, 'час.', minute, 'мин.', seconds, 'сек.')
+
